@@ -1024,6 +1024,7 @@ section {
   .departments .nav-link.active {
     color: #fff;
     background: #000;
+    border-radius: 14px;
   }
 }
 
